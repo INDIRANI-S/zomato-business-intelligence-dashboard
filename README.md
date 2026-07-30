@@ -16,8 +16,7 @@ This project analyses Zomato business data using SQL, Power BI and DAX to uncove
 - Generated business insights for decision-making.
 
 ## Dashboard Preview
-
-(Add dashboard screenshots here)
+https://github.com/INDIRANI-S/zomato-business-intelligence-dashboard/blob/93ffe270d2102514695c67c2e641e9e31c3c301f/PROJECT%204.png
 
 ## Project Files
 - Power BI Dashboard
